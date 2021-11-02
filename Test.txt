@@ -1,1 +1,3 @@
 This is test.txt with some content -- Commit 1
+This is second line added via local machine --Commit 2
+
